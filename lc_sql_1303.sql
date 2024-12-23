@@ -1,4 +1,4 @@
-# 1303. Find the Team Size
+# 1303. Find the Team Size 
 with team_size as(
 select 
     team_id, 
